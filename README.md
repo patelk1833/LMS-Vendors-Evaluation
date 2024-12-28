@@ -51,21 +51,16 @@ This project exemplifies my ability to analyze complex systems, engage stakehold
 ## Repository Files
 
 ### Main Files
-- **[Final_Report.pdf](https://github.com/patelk1833/LMS-Vendors-Evaluation/blob/main/LMS_Evaluation_Final_Report.pdf):**  
-  Complete documentation of the project, including analysis, findings, and recommendations.
+- **[Final_Report.pdf](https://github.com/patelk1833/LMS-Vendors-Evaluation/blob/main/LMS_Evaluation_Final_Report.pdf):** Complete documentation of the project, including analysis, findings, and recommendations.
 
-- **[Presentation.pdf](https://github.com/patelk1833/LMS-Vendors-Evaluation/blob/main/LMS_Evaluation_Presentation.pdf):**  
-  Summarizes key findings, evaluations, and final recommendations for the LMS decision.
+- **[Presentation.pdf](https://github.com/patelk1833/LMS-Vendors-Evaluation/blob/main/LMS_Evaluation_Presentation.pdf):** Summarizes key findings, evaluations, and final recommendations for the LMS decision.
 
-### Supporting Documents
-- **[LMS_Implementation_Plan](https://github.com/patelk1833/LMS-Vendors-Evaluation/tree/main/Supporting%20Documents):**  
-  A detailed implementation plan outlining milestones and schedules.
+### [Supporting Documents](https://github.com/patelk1833/LMS-Vendors-Evaluation/tree/main/Supporting%20Documents)
+- **LMS_Implementation_Plan:** A detailed implementation plan outlining milestones and schedules.
 
-- **[LMS_Project_Plan](https://github.com/patelk1833/LMS-Vendors-Evaluation/tree/main/Supporting%20Documents):**  
-  A project management plan including tasks, timelines, and deliverables.
+- **LMS_Project_Plan:** A project management plan including tasks, timelines, and deliverables.
 
-- **[WIT_LMS_Research_Proposal](https://github.com/patelk1833/LMS-Vendors-Evaluation/tree/main/Supporting%20Documents):**  
-  A proposal document outlining the project goals, methodology, and anticipated outcomes.
+- **WIT_LMS_Research_Proposal:** A proposal document outlining the project goals, methodology, and anticipated outcomes.
 
 
 
